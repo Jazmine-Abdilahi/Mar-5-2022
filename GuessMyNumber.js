@@ -3,6 +3,8 @@
 
 'use strict';
 
+/* 74-75 */
+
 console.log(document.querySelector('.message').textContent);
 
 document.querySelector{'mesage'}.textContant = 'ヽ(^o^)ノ You Got It right';
